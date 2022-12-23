@@ -1,4 +1,4 @@
-### Hi! Im Letícia (ela/dela)
+### Hi! Im Letícia (she/her)
 Welcome to my GitHub, sorry for the mess😊 <br>
 Under construction (and always!) <br>
 I’m currently learning Java e Kotlin. 
