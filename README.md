@@ -1,7 +1,7 @@
 ### Hi! Im Letícia (she/her)
 Welcome to my GitHub, sorry for the mess😊 <br>
 Under construction (and always!) <br>
-I’m currently learning Java e Kotlin. 
+I’m currently learning Python. 
 This template profile is based to:  https://github.com/rafaballerini/rafaballerini
 
 <!--
