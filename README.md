@@ -4,9 +4,6 @@ Under construction (and always!) <br>
 I’m currently learning Java e Kotlin. 
 This template profile is based to:  https://github.com/rafaballerini/rafaballerini
 
-<!--
-**dev-leticia-costa/dev-leticia-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 
 
 
