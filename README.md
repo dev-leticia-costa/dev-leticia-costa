@@ -10,9 +10,9 @@ This template profile is based to:  https://github.com/rafaballerini/rafaballeri
 
 
 
- <!-- <a href="https://github.com/dev-leticia-costa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-leticia-costa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-leticia-costa&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/dev-leticia-costa">
+<!--  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dev-leticia-costa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-leticia-costa&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
 
 <div>
