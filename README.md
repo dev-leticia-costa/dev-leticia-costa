@@ -4,14 +4,16 @@ Under construction (and always!) <br>
 I’m currently learning Java e Kotlin. 
 This template profile is based to:  https://github.com/rafaballerini/rafaballerini
 
+<!--
+**dev-leticia-costa/dev-leticia-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 
 
-  <a href="https://github.com/dev-leticia-costa">
+ <!-- <a href="https://github.com/dev-leticia-costa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-leticia-costa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-leticia-costa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 
 <div>
   <img align="center" alt="dev-icon-Js" height="30" width="40"
